@@ -1,1 +1,26 @@
-ls -la
+total 68
+drwxr-xr-x 2 root root 4096 Sep 27 02:29 .
+drwxr-xr-x 6 root root  121 Sep 26 06:00 ..
+-rwxr-xr-x 1 root root   32 Sep 26 06:29 0-hello_world
+-rwxr-xr-x 1 root root   25 Sep 26 06:25 0-hello_world~
+-rwxr-xr-x 1 root root   11 Sep 26 06:31 #1-confused_smiley#
+-rwxr-xr-x 1 root root   28 Sep 26 07:05 1-confused_smiley
+-rwxr-xr-x 1 root root   31 Sep 26 07:05 1-confused_smiley~
+-rwxr-xr-x 1 root root   28 Sep 26 07:08 2-hellofile
+-rwxr-xr-x 1 root root   27 Sep 26 07:08 2-hellofile~
+-rwxr-xr-x 1 root root   39 Sep 26 07:25 3-twofiles
+-rwxr-xr-x 1 root root    0 Sep 26 07:11 3-twofiles~
+-rwxr-xr-x 1 root root   35 Sep 26 07:29 4-lastlines
+-rwxr-xr-x 1 root root    0 Sep 26 07:28 4-lastlines~
+-rwxr-xr-x 1 root root   35 Sep 26 07:32 5-firstlines
+-rwxr-xr-x 1 root root    0 Sep 26 07:31 5-firstlines~
+-rwxr-xr-x 1 root root   36 Sep 26 07:41 6-third_line
+-rwxr-xr-x 1 root root    0 Sep 26 07:33 6-third_line~
+-rwxr-xr-x 1 root root   80 Sep 27 02:17 7-file
+-rwxr-xr-x 1 root root   74 Sep 27 01:13 7-file~
+-rwxr-xr-x 1 root root   38 Sep 27 02:29 8-cwd_state
+-rwxr-xr-x 1 root root    0 Sep 27 02:19 8-cwd_state~
+-rw-r--r-- 1 root root   12 Sep 27 02:17 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Sep 27 02:29 ls_cwd_content
+-rw-r--r-- 1 root root 2896 Sep 26 06:20 README.md
+-rw-r--r-- 1 root root    0 Sep 26 06:01 README.md~
